@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npm/cli.git"
+    "url": "git+https://github.com/zackria/language-powerhouse-vscode/cli.git"
   }
 }
