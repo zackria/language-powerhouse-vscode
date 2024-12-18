@@ -1,0 +1,32 @@
+{
+  "name": "language-powerhouse",
+  "displayName": "Language Powerhouse",
+  "description": "Syntax highlighting for Powerhouse language",
+  "version": "1.0.1",
+  "publisher": "ZackDawood",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": ["Programming Languages"],
+  "contributes": {
+    "languages": [
+      {
+        "id": "powerhouse",
+        "aliases": ["Powerhouse", "powerhouse"],
+        "extensions": [".ph", ".qts", ".qks", ".qzs"],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "powerhouse",
+        "scopeName": "source.powerhouse",
+        "path": "./syntaxes/powerhouse.tmLanguage.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/cli.git"
+  }
+}
