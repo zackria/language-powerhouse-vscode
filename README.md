@@ -47,6 +47,10 @@ Provides support for syntax colouring in the VSCode text editor.
 
 `vsce package`
 
+### Publish use VSCE 
+
+`vsce publish`
+
 ### Testing in location 
 
 `language-powerhouse-1.0.0.vsix`
