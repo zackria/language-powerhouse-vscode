@@ -17,7 +17,7 @@ Provides support for syntax colouring in the VSCode text editor.
 *  **Contribute!** I'll be happy to accept pull requests!
 *  **Bug hunting!** [Report](https://github.com/zackria/language-powerhouse-vscode/issues) them!
 * **Feature request?** Please let me know by filling an [issue](https://github.com/zackria/language-powerhouse-vscode/issues)!
-* **Star this project** on [VSCode Extension](https://atom.io/packages/language-powerhouse), [Github](https://github.com/zackria/language-powerhouse-vscode)
+* **Star this project** on [VSCode Extension](https://marketplace.visualstudio.com/items?itemName=ZackDawood.language-powerhouse), [Github](https://github.com/zackria/language-powerhouse-vscode)
 
 ---
 
