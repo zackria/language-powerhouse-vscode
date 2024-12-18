@@ -10,7 +10,7 @@ Provides support for syntax colouring in the VSCode text editor.
 
 ----
 
-### I'd like to support this project
+### I'd Like to Support This Project
 
 #### Help us bring this project to the moon! VSCode's rocket needs to get somewhere, right?
 
@@ -33,7 +33,7 @@ Provides support for syntax colouring in the VSCode text editor.
 [https://marketplace.visualstudio.com/manage/publishers/](https://marketplace.visualstudio.com/manage/publishers/)
 ---
 
-## MACOS Atom Syntax library to Vscode conversion 
+## macOS Atom Syntax Library to VSCode Conversion 
 
 `sudo npm install --save -g cson`
 
