@@ -3,7 +3,7 @@
   "displayName": "Language Powerhouse",
   "description": "Syntax highlighting for Powerhouse language",
   "icon": "images/powerhouse128x128.png",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "ZackDawood",
   "engines": {
     "vscode": "^1.75.0"
@@ -13,7 +13,7 @@
     "languages": [
       {
         "id": "powerhouse",
-        "aliases": ["Powerhouse", "powerhouse"],
+        "aliases": ["Powerhouse", "powerhouse", "Power house", "power house"],
         "extensions": [".ph", ".qts", ".qks", ".qzs"],
         "configuration": "./language-configuration.json"
       }
