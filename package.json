@@ -2,7 +2,8 @@
   "name": "language-powerhouse",
   "displayName": "Language Powerhouse",
   "description": "Syntax highlighting for Powerhouse language",
-  "version": "1.0.1",
+  "icon": "images/powerhouse128x128.png",
+  "version": "1.0.2",
   "publisher": "ZackDawood",
   "engines": {
     "vscode": "^1.75.0"

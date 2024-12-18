@@ -21,6 +21,17 @@ Provides support for syntax colouring in the VSCode text editor.
 
 ---
 
+### VSCode Extension ID
+
+`ZackDawood.language-powerhouse`
+
+[https://marketplace.visualstudio.com/items?itemName=ZackDawood.language-powerhouse](https://marketplace.visualstudio.com/items?itemName=ZackDawood.language-powerhouse)
+
+--- 
+## VSCode Marketplace
+
+[https://marketplace.visualstudio.com/manage/publishers/](https://marketplace.visualstudio.com/manage/publishers/)
+---
 
 ## MACOS Atom Syntax library to Vscode conversion 
 
