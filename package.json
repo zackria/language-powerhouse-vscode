@@ -3,7 +3,7 @@
   "displayName": "Language Powerhouse",
   "description": "Syntax highlighting for Powerhouse language",
   "icon": "images/powerhouse128x128.png",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "publisher": "ZackDawood",
   "engines": {
     "vscode": "^1.75.0"
